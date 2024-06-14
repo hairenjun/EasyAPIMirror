@@ -1,0 +1,14 @@
+{
+  "name": "easyapimirror",
+  "version": "0.0.1",
+  "description": "EasyAPIMirror is a JS based service act as proxy for HTTP requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Hairenjun",
+  "license": "ISC"
+}
